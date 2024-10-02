@@ -5,11 +5,11 @@ Dashboard ini adalah sebuah website analisis data untuk peminjaman sepeda menggu
 
 ## Fitur 
 Dashboard ini menawarkan beberapa fitur diantaranya, yaitu:
-- Analisis peminjaman sepeda berdasarkan faktor cuaca. 
-- Analisis peminjaman sepeda pada hari kerja dan hari libur. 
-- Analisis peminjaman sepeda berdasarkan bulan.
-- Analisis peminjaman sepeda pada pengguna registred dan casual. 
-- Analisis peminjaman sepeda Berdasarkan jam.
+1. Analisis peminjaman sepeda berdasarkan faktor cuaca.
+2. Analisis peminjaman sepeda pada hari kerja dan hari libur.
+3. Analisis peminjaman sepeda berdasarkan bulan.
+4. Analisis peminjaman sepeda pada pengguna registred dan casual.
+5. Analisis peminjaman sepeda Berdasarkan jam.
 
 
 ### Instalasi 
