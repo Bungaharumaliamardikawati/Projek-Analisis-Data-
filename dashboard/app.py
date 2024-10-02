@@ -7,8 +7,8 @@ import matplotlib.pyplot as plt
 st.set_page_config(layout="wide")
 
 # Membaca dataset
-day_df = pd.read_csv('C:/Users/Lenovo/OneDrive/Documents/studi independen bangkit/dashboard/data_clean_day.csv')
-hour_df = pd.read_csv('C:/Users/Lenovo/OneDrive/Documents/studi independen bangkit/dashboard/data_clean_hour.csv')
+day_df = pd.read_csv('dashboard/app.py')
+hour_df = pd.read_csv('dashboard/app.py')
 
 # Sidebar untuk memilih dataset
 st.sidebar.title("Bike Rental Dashboard")
